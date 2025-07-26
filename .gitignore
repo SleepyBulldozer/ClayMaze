@@ -1,0 +1,15 @@
+# Maven
+pom.xml
+pom.xml.src
+
+# IDE
+.vscode/
+.calva/
+.clj-kondo/
+.lsp/
+
+# Clojure
+.cpcache/
+
+# REPL
+.nrepl-port

@@ -1,0 +1,9 @@
+{;; Project Paths
+ :paths ["src"]
+
+ ;; Dependencies
+ :deps {org.clojure/clojure {:mvn/version "1.12.1"}}
+
+ ;;Aliases
+ :aliases {}
+ }
